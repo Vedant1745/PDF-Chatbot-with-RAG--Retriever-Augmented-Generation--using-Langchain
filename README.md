@@ -1,4 +1,4 @@
-PDF-Chatbot-with-RAG (Retriever-Augmented Generation using Langchain)
+## PDF-Chatbot-with-RAG (Retriever-Augmented Generation using Langchain)
 This project creates a Retriever-Augmented Generation (RAG) based chatbot, allowing users to interact with PDF files. The chatbot answers questions based on the content of the PDFs, and the backend uses Langchain to implement the RAG methodology. FAISS is used for vector-based search and retrieval, and SpacyEmbeddings is utilized for embedding the text data.
 
 Features
